@@ -41,6 +41,16 @@ Module.symvers
 *.c.[012]*.*
 
 #
+# LH Kernel files
+#
+Buildlog-CLANG.txt
+Buildlog-GCC.txt
+Zip-out/
+b.sh
+c.sh
+out/
+
+#
 # Top-level generic files
 #
 /tags
